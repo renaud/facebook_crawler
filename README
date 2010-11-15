@@ -1,0 +1,5 @@
+STEPS
+1. install required gems
+2. create MySQL db and tables (see create.sql)
+3. get a token from http://developers.facebook.com/docs/api
+4. ruby wall_collector.rb
